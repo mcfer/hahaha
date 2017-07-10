@@ -7,9 +7,6 @@ jkfdj
 Third line~~~~~
 Fourth line
 
-<<<<<<< HEAD
 hello
-=======
 
 add by mcfer
->>>>>>> origin/master
